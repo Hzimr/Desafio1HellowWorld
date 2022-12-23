@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  color: white;
+}
+
+ 
+ 
+div .App{
+  background-color: #1e3a8a; //blue900
+}
+
+div .numeros{
+  display: flex;
+  justify-content: center;
+ 
+}
+
+div input {
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 30px;
+  background-color: #c7d2fe; //indigo200
+  height: 60px;
+}
+
+div .card button{
+  background-color: #0077e6; //darkBlue.500
+
+}
+
+div .card button text{
+  color: white;
+}
